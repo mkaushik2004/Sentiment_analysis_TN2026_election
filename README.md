@@ -1,1 +1,2 @@
-# Sentiment_analysis_TN2026_election
+# Sentiment Analysis for TN 2026 ELECTION
+his project focuses on analyzing public opinion about the 2026 Tamil Nadu State Elections using Natural Language Processing (NLP) and Machine Learning techniques. Social media data, news articles, and online discussions are collected, preprocessed, and classified into positive, negative, or neutral sentiments. The analysis is visualized through dashboards to identify trends, party-wise sentiment distribution, and voter mood over time. The project demonstrates how data mining, text analytics, and visualization can be applied to understand electoral sentiment and predict public opinion patterns.
